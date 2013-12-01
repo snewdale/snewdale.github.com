@@ -1,0 +1,3 @@
+# Thank you mister Roboto, but there is no need to index for now. Thank you for calling, though :)
+User-Agent: *
+Disallow: /
