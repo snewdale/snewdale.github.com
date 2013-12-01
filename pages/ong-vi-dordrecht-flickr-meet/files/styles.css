@@ -218,7 +218,7 @@ ul.styledlist {
 }
 
 ul.styledlist li {
-	background: #fff url('/design/widget/images/list-item.gif') no-repeat scroll left center;
+	background: #fff url('../files/list-item.gif') no-repeat scroll left center;
 	padding-left: 15px;
 	padding-bottom: 0;
 	margin-bottom: 5px;
@@ -307,12 +307,12 @@ ul.styledlist li {
 }
 
 #nav ul li a.has_submenu {
-	background: transparent url('/design/widget/images/submenu-item.gif') no-repeat scroll right center;
+	background: transparent url('../files/submenu-item.gif') no-repeat scroll right center;
 	padding-right: 30px;
 }
 
 #nav ul li a.has_submenu:hover, #nav ul li.sfHover a.has_submenu {
-	background-image: url('/design/widget/images/submenu-item-hover.gif');
+	background-image: url('../files/submenu-item-hover.gif');
 }
 
 
@@ -429,7 +429,7 @@ div.slides-container div.jFlowSlideContainer div.slide-image {
 	padding-top: 0px;
 }
 span.jFlowPrev, span.jFlowNext {
-	background-image:url('/design/widget/images/slide-prev.gif');
+	background-image:url('../files/slide-prev.gif');
 	background-repeat:no-repeat;
 	display:block;
 	height:41px;
@@ -440,7 +440,7 @@ span.jFlowPrev, span.jFlowNext {
 }
 span.jFlowPrev span, span.jFlowNext span { display:none; }
 span.jFlowNext {
-	background-image:url('/design/widget/images/slide-next.gif');
+	background-image:url('../files/slide-next.gif');
 	float:right;
 }
 div.slides-container div.controls {
@@ -598,7 +598,7 @@ div#sub-header h2 {
 
 #footer {
 	margin:0 auto;
-	background: #000 url('/design/widget/images/footer.jpg') repeat-x scroll bottom left;
+	background: #000 url('../files/footer.jpg') repeat-x scroll bottom left;
 	padding: 30px 5px 0;
 }
 
